@@ -2,6 +2,9 @@
   "scripts": {
     "open-codex": "open-codex"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
     "@openai/codex": "^0.53.0",
     "open-codex": "latest"

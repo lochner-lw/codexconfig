@@ -4,7 +4,9 @@ Configurations for the Codex CLI. To ensure the CLI has everything it needs, ins
 
 ## Installation
 
-1. Install the local dependencies:
+1. Ensure you are running **Node.js 22 or newer**. The bundled `open-codex` CLI depends on the latest Node runtime and will emit engine warnings or fail to execute on older versions.
+
+2. Install the local dependencies:
    ```sh
    npm install
    ```
