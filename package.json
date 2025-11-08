@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "open-codex": "open-codex"
+  },
   "dependencies": {
-    "@openai/codex": "^0.53.0"
+    "@openai/codex": "^0.53.0",
+    "open-codex": "latest"
   }
 }
